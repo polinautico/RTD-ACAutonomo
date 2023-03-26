@@ -2,7 +2,7 @@
 
 # -- Project information
 
-project = 'Kraken'
+project = 'AC Autônomo'
 copyright = '2023, Poli Náutico'
 author = 'Equipe Poli Náutico'
 
