@@ -12,6 +12,7 @@ Esse é um dos projetos do `Poli Náutico <https://docs.polinautico.com>`_
    sistema_autonomo
    casco
    propulsao
+   voltar a home <https://docs.polinautico.com>
    
 Ahoy! Bem vindo ao AC Autonomo, maraujos! :
 Nesta guia, iremos mostrar todo o projeto de criação da nossa embarcação tripulada: o AC Autonomo.
